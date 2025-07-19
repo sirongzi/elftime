@@ -1,0 +1,20 @@
+payload:
+  ### 此为饭饭的直连IP池
+
+  #################### PT
+  - DOMAIN-SUFFIX,daydream.dmhy.best # U2
+  - DOMAIN-SUFFIX,probe.skyey2.com # 天雪
+  - DOMAIN-SUFFIX,jpopsuki.eu # jpopsuki
+  - DOMAIN-SUFFIX,pt.btschool.club # btschool
+  - DOMAIN-SUFFIX,t.audiences.me # audiences
+  - DOMAIN-SUFFIX,tracker.cinefiles.info # audiences
+  - DOMAIN-SUFFIX,tracker.m-team.cc # m-team
+  - DOMAIN-SUFFIX,tracker.52dic.vip # m-team
+
+  #################### 其他
+  - DOMAIN-SUFFIX,ffani.com
+  - DOMAIN-SUFFIX,maj-soul.com
+  - DOMAIN-SUFFIX,aiccrop.com
+  - DOMAIN-SUFFIX,clara-protection-society.com
+  - DOMAIN-SUFFIX,skymkmk.cn
+  - DOMAIN-SUFFIX,shinonomeow.fun
