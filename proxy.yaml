@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,aibooru.online # AIBooru
   - DOMAIN-SUFFIX,bitwarden.com # bitwarden
   - DOMAIN-SUFFIX,asmr.one # ASMR ONE
+  - DOMAIN-SUFFIX,dockerhub1.beget.com
 
   #################### 友链
   - DOMAIN-SUFFIX,moerats.com
