@@ -6,14 +6,15 @@ payload:
   - DOMAIN-SUFFIX,hdfans.org # 红豆饭
   - DOMAIN-SUFFIX,share.acgnx.se # 末日動漫資源庫
   - DOMAIN-SUFFIX,pttime.org # pttime
-  - DOMAIN-SUFFIX,hanman.cyou # 大猫漫画
   
   #################### 小说音乐漫画动漫相关
   - DOMAIN-SUFFIX,honeyworks.jp # HoneyWorks Official web site
   - DOMAIN-SUFFIX,acgsecrets.hk # ACG Secrets.HK
   - DOMAIN-SUFFIX,esjzone.cc # esjzone
   - DOMAIN-SUFFIX,bbs.acgrip.com # ACG字幕分享 - VCB-Studio分享论坛
-
+  - DOMAIN-SUFFIX,hanman18.com # 韩漫18
+  - DOMAIN-SUFFIX,hanman.cyou # 大猫漫画
+  
   #################### 其他
   - DOMAIN-SUFFIX,asmrhub.site # ASMR Hub
   - DOMAIN-SUFFIX,aibooru.online # AIBooru
