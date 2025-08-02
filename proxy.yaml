@@ -6,7 +6,8 @@ payload:
   - DOMAIN-SUFFIX,hdfans.org # 红豆饭
   - DOMAIN-SUFFIX,share.acgnx.se # 末日動漫資源庫
   - DOMAIN-SUFFIX,pttime.org # pttime
-
+  - DOMAIN-SUFFIX,hanman.cyou # 大猫漫画
+  
   #################### 小说音乐漫画动漫相关
   - DOMAIN-SUFFIX,honeyworks.jp # HoneyWorks Official web site
   - DOMAIN-SUFFIX,acgsecrets.hk # ACG Secrets.HK
@@ -18,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,aibooru.online # AIBooru
   - DOMAIN-SUFFIX,bitwarden.com # bitwarden
   - DOMAIN-SUFFIX,asmr.one # ASMR ONE
-  - DOMAIN-SUFFIX,dockerhub1.beget.com
+  - DOMAIN-SUFFIX,dockerhub1.beget.com # docker
 
   #################### 友链
   - DOMAIN-SUFFIX,moerats.com
