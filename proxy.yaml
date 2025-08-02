@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,bbs.acgrip.com # ACG字幕分享 - VCB-Studio分享论坛
   - DOMAIN-SUFFIX,hanman18.com # 韩漫18
   - DOMAIN-SUFFIX,hanman.cyou # 大猫漫画
+  - DOMAIN-SUFFIX,roum20.xyz # 肉漫屋
   
   #################### 其他
   - DOMAIN-SUFFIX,asmrhub.site # ASMR Hub
