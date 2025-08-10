@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,hanman18.com # 韩漫18
   - DOMAIN-SUFFIX,hanman.cyou # 大猫漫画
   - DOMAIN-SUFFIX,roum20.xyz # 肉漫屋
+  - DOMAIN-SUFFIX,tsdm39.com # 天使动漫论坛
   
   #################### 其他
   - DOMAIN-SUFFIX,asmrhub.site # ASMR Hub
