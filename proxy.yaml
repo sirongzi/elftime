@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,roum20.xyz # 肉漫屋
   - DOMAIN-SUFFIX,tsdm39.com # 天使动漫论坛
   - DOMAIN-SUFFIX,mycomic.com # 我的漫画
+  - DOMAIN-SUFFIX,penana.com # Penana小说
   
   #################### 其他
   - DOMAIN-SUFFIX,asmrhub.site # ASMR Hub
@@ -24,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,bitwarden.com # bitwarden
   - DOMAIN-SUFFIX,asmr.one # ASMR ONE
   - DOMAIN-SUFFIX,dockerhub1.beget.com # docker
-  - DOMAIN-SUFFIX,penana.com # Penana小说
 
   #################### 友链
   - DOMAIN-SUFFIX,moerats.com
