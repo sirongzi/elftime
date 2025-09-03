@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,pttime.org # pttime
   
   #################### 小说音乐漫画动漫相关
+  - DOMAIN-SUFFIX,mora.jp # mora
   - DOMAIN-SUFFIX,honeyworks.jp # HoneyWorks Official web site
   - DOMAIN-SUFFIX,acgsecrets.hk # ACG Secrets.HK
   - DOMAIN-SUFFIX,esjzone.cc # esjzone
