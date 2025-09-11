@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,asmr.one # ASMR ONE
   - DOMAIN-SUFFIX,dockerhub1.beget.com # docker
   - DOMAIN-SUFFIX,immortalwrt.org # immortalwrt
+  - DOMAIN-SUFFIX,fanart.tv # fanart
 
   #################### 友链
   - DOMAIN-SUFFIX,moerats.com
