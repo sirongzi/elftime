@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,tsdm39.com # 天使动漫论坛
   - DOMAIN-SUFFIX,mycomic.com # 我的漫画
   - DOMAIN-SUFFIX,penana.com # Penana小说
+  - DOMAIN-SUFFIX,hanime1.me # H動漫
   
   #################### 其他
   - DOMAIN-SUFFIX,asmrhub.site # ASMR Hub
