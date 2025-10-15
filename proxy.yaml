@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,dockerhub1.beget.com # docker
   - DOMAIN-SUFFIX,immortalwrt.org # immortalwrt
   - DOMAIN-SUFFIX,fanart.tv # fanart
+  - DOMAIN-SUFFIX,groq.com # console.groq.com
 
   #################### 友链
   - DOMAIN-SUFFIX,moerats.com
