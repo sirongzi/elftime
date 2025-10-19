@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,immortalwrt.org # immortalwrt
   - DOMAIN-SUFFIX,fanart.tv # fanart
   - DOMAIN-SUFFIX,groq.com # console.groq.com
+  - DOMAIN-SUFFIX,lexica.art # sd-dynamic-prompts依赖
 
   #################### 友链
   - DOMAIN-SUFFIX,moerats.com
