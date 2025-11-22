@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.cinefiles.info # audiences
   - DOMAIN-SUFFIX,tracker.m-team.cc # m-team
   - DOMAIN-SUFFIX,tracker.52dic.vip # m-team
+  - DOMAIN-SUFFIX,redacted.sh # red
 
   #################### 其他
   - DOMAIN-SUFFIX,ffani.com
