@@ -25,7 +25,6 @@ payload:
   
   #################### 其他
   - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,asmrhub.site # ASMR Hub
   - DOMAIN-SUFFIX,aibooru.online # AIBooru
