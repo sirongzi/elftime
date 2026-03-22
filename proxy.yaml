@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,lexica.art # sd-dynamic-prompts依赖
 
   #################### 友链
+  - DOMAIN-SUFFIX,ffani.com
   - DOMAIN-SUFFIX,moerats.com
   - DOMAIN-SUFFIX,moe.best
   - DOMAIN-SUFFIX,saber.love
