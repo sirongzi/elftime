@@ -24,6 +24,10 @@ payload:
   - DOMAIN-SUFFIX,halfts.com # TS小说
   
   #################### 其他
+  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,clientservices.googleapis.com
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,asmrhub.site # ASMR Hub
