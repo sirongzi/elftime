@@ -13,8 +13,6 @@ payload:
   - DOMAIN-SUFFIX,redacted.sh # red
 
   #################### 其他
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,v1.ffani.com
   - DOMAIN-SUFFIX,maj-soul.com
   - DOMAIN-SUFFIX,aiccrop.com
