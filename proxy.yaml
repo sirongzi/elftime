@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,penana.com # Penana小说
   - DOMAIN-SUFFIX,hanime1.me # H動漫
   - DOMAIN-SUFFIX,halfts.com # TS小说
+  - DOMAIN-SUFFIX,novelia.cc #机翻小说
   
   #################### 其他
   - DOMAIN-SUFFIX,googleapis.cn
