@@ -17,6 +17,13 @@ payload:
   - DOMAIN-SUFFIX,penana.com # Penana小说
   - DOMAIN-SUFFIX,halfts.com # TS小说
   - DOMAIN-SUFFIX,novelia.cc #机翻小说
+  - DOMAIN-SUFFIX,wnacg.com # 绅士漫画
+  - DOMAIN-SUFFIX,esjzone.cc # esjzone
+  - DOMAIN-SUFFIX,hanman18.com # 韩漫18
+  - DOMAIN-SUFFIX,hanman.cyou # 大猫漫画
+  - DOMAIN-SUFFIX,mycomic.com # 我的漫画
+  - DOMAIN-SUFFIX,hitomi.la # hitomi漫画站
+  - DOMAIN-SUFFIX,nhentai.net # nhentai漫画站
   
   #################### 其他
   - DOMAIN-SUFFIX,googleapis.cn
