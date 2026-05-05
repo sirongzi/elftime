@@ -1,0 +1,10 @@
+payload:
+  ### 此为饭饭的非日代理池
+
+  #################### PT
+  - DOMAIN-SUFFIX,hanime1.me # no-jp
+  - DOMAIN-SUFFIX,bbs.acgrip.com # no-jp ACG字幕分享 - VCB-Studio分享论坛
+  - DOMAIN-SUFFIX,e-hentai.org # EU & US best
+  - DOMAIN-SUFFIX,exhentai.org # EU & US best
+  - DOMAIN-SUFFIX,hanime.tv # no-jp
+  - DOMAIN-SUFFIX,18comic.vip # no-jp
