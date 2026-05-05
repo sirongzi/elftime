@@ -19,12 +19,15 @@ payload:
   - DOMAIN-SUFFIX,novelia.cc #机翻小说
   - DOMAIN-SUFFIX,wnacg.com # 绅士漫画
   - DOMAIN-SUFFIX,esjzone.cc # esjzone
+  - DOMAIN-SUFFIX,picaapi.picacomic.com # 嗶咔漫画
   - DOMAIN-SUFFIX,komiic.com # komiic漫画站
   - DOMAIN-SUFFIX,hanman18.com # 韩漫18
   - DOMAIN-SUFFIX,hanman.cyou # 大猫漫画
   - DOMAIN-SUFFIX,mycomic.com # 我的漫画
   - DOMAIN-SUFFIX,hitomi.la # hitomi漫画站
   - DOMAIN-SUFFIX,nhentai.net # nhentai漫画站
+  - DOMAIN-SUFFIX,mangabz.com # mangabz漫画站
+  - DOMAIN-SUFFIX,roum26.xyz # 肉漫屋
   
   #################### 其他
   - DOMAIN-SUFFIX,googleapis.cn
