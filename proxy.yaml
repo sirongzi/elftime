@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,hitomi.la # hitomi漫画站
   - DOMAIN-SUFFIX,nhentai.net # nhentai漫画站
   - DOMAIN-SUFFIX,mangabz.com # mangabz漫画站
+  - DOMAIN-SUFFIX,xmanhua.com # mangabz漫画站
+  - DOMAIN-SUFFIX,yymanhua.com # mangabz漫画站
   - DOMAIN-SUFFIX,roum22.xyz # 肉漫屋
   - DOMAIN-SUFFIX,roum26.xyz # 肉漫屋
   
