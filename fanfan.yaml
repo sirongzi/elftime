@@ -1,7 +1,7 @@
 # 机场订阅
 proxy-providers:
   fanfan:
-    url: "https://fanfan"
+    url: "https://fanfanproviders.workersdev.ffani.com/?token=b-%23PdvC_QqH(VwbwM%259hwz6yfFjpD"
     type: http
     path: ./providers/fanfan.yaml
     interval: 86400
@@ -11,7 +11,7 @@ proxy-providers:
       interval: 300
     proxy: 默认代理
   linkcube:
-    url: "https://linkcube"
+    url: "https://api-linkcube.org/subscribe/bypnm-hsprr06_"
     type: http
     path: ./providers/linkcube.yaml
     interval: 86400
@@ -21,7 +21,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   魂魂:
-    url: "https://hunhun"
+    url: "https://seele.yae-miko.net/f/q0FN/%E8%87%AD%E5%82%BB%E9%80%BC.txt"
     type: http
     path: ./providers/hunhun.yaml
     interval: 86400
@@ -120,6 +120,7 @@ proxy-groups:
   - {name: 默认代理, type: select, proxies: [自动选择, 手动选择, 饭饭, 香港故转, 日本故转, 台湾故转, 狮城故转, 美国故转, 羁绊之魂, 直连]}
   - {name: Google, type: select, proxies: [默认代理, 手动选择, 饭饭, 香港故转, 日本故转, 台湾故转, 狮城故转, 美国故转, 羁绊之魂]}
   - {name: YouTube, type: select, proxies: [默认代理, 手动选择, 饭饭, 香港故转, 日本故转, 台湾故转, 狮城故转, 美国故转, 羁绊之魂]}
+  - {name: Steam, type: select, proxies: [默认代理, 手动选择, 饭饭, 香港故转, 日本故转, 台湾故转, 狮城故转, 美国故转, 羁绊之魂, 直连]}
   - {name: Non-JP, type: select, proxies: [默认代理, 手动选择, 饭饭, 香港故转, 台湾故转, 狮城故转, 美国故转, 羁绊之魂]}
   - {name: 饭饭, type: fallback, tolerance: 20, interval: 300, include-all: false, use: [fanfan]}
   - {name: 香港故转, type: fallback, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|深|美)).)*$"}
@@ -151,7 +152,7 @@ rules:
   - RULE-SET,google_ip,Google
   - RULE-SET,onedrive_domain,默认代理
   - RULE-SET,steam@cn_domain,直连
-  - RULE-SET,steam_domain,默认代理
+  - RULE-SET,steam_domain,Steam
   - RULE-SET,gfw_domain,默认代理
   - RULE-SET,geolocation-!cn,默认代理
   - RULE-SET,cn_domain,直连
