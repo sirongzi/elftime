@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,fanart.tv # fanart
   - DOMAIN-SUFFIX,groq.com # console.groq.com
   - DOMAIN-SUFFIX,lexica.art # sd-dynamic-prompts依赖
+  - DOMAIN-SUFFIX,eu.org # 绿色lvse图床
 
   #################### 友链
   - DOMAIN-SUFFIX,ffani.com
