@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,redacted.sh # red
 
   #################### 其他
+  - IP-CIDR,220.130.197.210/32 # 群晖keepalive服务地址
   - DOMAIN-SUFFIX,v1.ffani.com
   - DOMAIN-SUFFIX,maj-soul.com
   - DOMAIN-SUFFIX,aiccrop.com
