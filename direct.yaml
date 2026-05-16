@@ -23,4 +23,3 @@ payload:
   - DOMAIN-SUFFIX,shinonomeow.top
   - DOMAIN-SUFFIX,api-linkcube.org
   - DOMAIN-SUFFIX,api.linkcube.dev
-  - IP-CIDR,38.76.172.3/32
